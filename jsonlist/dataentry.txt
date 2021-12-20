@@ -1,7 +1,7 @@
 {
-"Category_Link" : "https://bhai-tari-bhali-thay.000webhostapp.com/jsonlist/Winzo_Category_json.txt",
-"Banner_Link" : "https://bhai-tari-bhali-thay.000webhostapp.com/jsonlist/Winzo_Banner_Json.txt",
-"Second_Banner_Link" : "https://bhai-tari-bhali-thay.000webhostapp.com/jsonlist/winzoGames_Json.txt",
-"Populer_Link" : "https://bhai-tari-bhali-thay.000webhostapp.com/jsonlist/Winzo_Populer_Json.txt",
-"btn_2_Link" : "https://bhai-tari-bhali-thay.000webhostapp.com/jsonlist/Winzo_Populer_Json.txt",
+"Category_Link" : "https://customdatastorage.github.io/jsonlist/Winzo_Category_json.txt",
+"Banner_Link" : "https://customdatastorage.github.io/jsonlist/Winzo_Banner_Json.txt",
+"Second_Banner_Link" : "https://customdatastorage.github.io/jsonlist/winzoGames_Json.txt",
+"Populer_Link" : "https://customdatastorage.github.io/jsonlist/Winzo_Populer_Json.txt",
+"btn_2_Link" : "https://customdatastorage.github.io/jsonlist/Winzo_Populer_Json.txt",
 }	
