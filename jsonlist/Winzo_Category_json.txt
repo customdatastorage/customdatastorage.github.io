@@ -22,10 +22,10 @@
         {
         "qureka" : "0",
         "id":"3",
-        "game_name": "Cards",
-        "game_image": "https://customdatastorage.github.io/Winzo_category_Image/category 3.png",
-        "Category_link": "https://customdatastorage.github.io/jsonlist/CardsCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_8.png"
+        "game_name": "New",
+        "game_image": "https://customdatastorage.github.io/Winzo_category_Image/category 11.png",
+        "Category_link": "https://customdatastorage.github.io/jsonlist/RacingCategoryWinzo.json",
+        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_13.png"
         },
         {
         "qureka" : "0",
